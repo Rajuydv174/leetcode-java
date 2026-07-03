@@ -1,22 +1,23 @@
 class Solution {
 public:
     int dominantIndex(vector<int>& nums) {
-        int max1 = INT_MIN;
-       int max2 = INT_MIN;
+        int max = INT_MIN;
+       int sec = INT_MIN;
         int index = -1;
 
-        for(int i = 0; i < nums.size(); i++) {
-            if(nums[i] > max1) {
-                max2 = max1;
-                max1 = nums[i];
-                index = i;
-            }
-            else if(nums[i] > max2) {
-                max2 = nums[i];
-            }
-        }
-
-        if(max1 >= 2 * max2) return index;
+      int n=nums.size();
+       for(int i=0;i<n;i++){
+         if(nums[i]>max){
+            sec=max;
+            max=nums[i];
+            index=i;
+         }else if(nums[i]>sec){
+            sec=nums[i];
+         }
+       } if (max>=2*sec){
+        return index;
+       }else{
         return -1;
+       }
     }
 };
