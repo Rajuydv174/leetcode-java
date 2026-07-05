@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Rajuydv174/leetcode-java/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Rajuydv174/leetcode-java/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1920-build-array-from-permutation](https://github.com/Rajuydv174/leetcode-java/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Rajuydv174/leetcode-java/tree/master/1929-concatenation-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rajuydv174/leetcode-java/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rajuydv174/leetcode-java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Hash Table
@@ -108,4 +109,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Rajuydv174/leetcode-java/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Rajuydv174/leetcode-java/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
