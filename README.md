@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajuydv174/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Rajuydv174/leetcode-java/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Rajuydv174/leetcode-java/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Rajuydv174/leetcode-java/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rajuydv174/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0414-third-maximum-number](https://github.com/Rajuydv174/leetcode-java/tree/master/0414-third-maximum-number) |
 | [0523-continuous-subarray-sum](https://github.com/Rajuydv174/leetcode-java/tree/master/0523-continuous-subarray-sum) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Rajuydv174/leetcode-java/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/Rajuydv174/leetcode-java/tree/master/0523-continuous-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajuydv174/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Rajuydv174/leetcode-java/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Rajuydv174/leetcode-java/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Rajuydv174/leetcode-java/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
