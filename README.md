@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Rajuydv174/leetcode-java/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Rajuydv174/leetcode-java/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rajuydv174/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Rajuydv174/leetcode-java/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/Rajuydv174/leetcode-java/tree/master/0414-third-maximum-number) |
 | [0523-continuous-subarray-sum](https://github.com/Rajuydv174/leetcode-java/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Rajuydv174/leetcode-java/tree/master/0724-find-pivot-index) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rajuydv174/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Rajuydv174/leetcode-java/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Rajuydv174/leetcode-java/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Rajuydv174/leetcode-java/tree/master/0724-find-pivot-index) |
 | [0813-largest-sum-of-averages](https://github.com/Rajuydv174/leetcode-java/tree/master/0813-largest-sum-of-averages) |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Rajuydv174/leetcode-java/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Rajuydv174/leetcode-java/tree/master/1929-concatenation-of-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Rajuydv174/leetcode-java/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
