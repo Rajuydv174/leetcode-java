@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Rajuydv174/leetcode-java/tree/master/1929-concatenation-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rajuydv174/leetcode-java/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rajuydv174/leetcode-java/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Rajuydv174/leetcode-java/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Rajuydv174/leetcode-java/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Rajuydv174/leetcode-java/tree/master/0344-reverse-string) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -62,12 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Rajuydv174/leetcode-java/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajuydv174/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Rajuydv174/leetcode-java/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Rajuydv174/leetcode-java/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rajuydv174/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rajuydv174/leetcode-java/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -81,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0813-largest-sum-of-averages](https://github.com/Rajuydv174/leetcode-java/tree/master/0813-largest-sum-of-averages) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -114,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rajuydv174/leetcode-java/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -127,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Rajuydv174/leetcode-java/tree/master/0303-range-sum-query-immutable) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
