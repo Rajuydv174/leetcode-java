@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Rajuydv174/leetcode-java/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Rajuydv174/leetcode-java/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0813-largest-sum-of-averages](https://github.com/Rajuydv174/leetcode-java/tree/master/0813-largest-sum-of-averages) |
+| [0867-transpose-matrix](https://github.com/Rajuydv174/leetcode-java/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Rajuydv174/leetcode-java/tree/master/0904-fruit-into-baskets) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajuydv174/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Rajuydv174/leetcode-java/tree/master/1480-running-sum-of-1d-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Rajuydv174/leetcode-java/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/Rajuydv174/leetcode-java/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Rajuydv174/leetcode-java/tree/master/1572-matrix-diagonal-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rajuydv174/leetcode-java/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rajuydv174/leetcode-java/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Rajuydv174/leetcode-java/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/Rajuydv174/leetcode-java/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Rajuydv174/leetcode-java/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Rajuydv174/leetcode-java/tree/master/1929-concatenation-of-array) |
 ## Design
