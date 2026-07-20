@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Rajuydv174/leetcode-java/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Rajuydv174/leetcode-java/tree/master/1929-concatenation-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rajuydv174/leetcode-java/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2942-find-words-containing-character](https://github.com/Rajuydv174/leetcode-java/tree/master/2942-find-words-containing-character) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rajuydv174/leetcode-java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rajuydv174/leetcode-java/tree/master/3312-sorted-gcd-pair-queries) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Rajuydv174/leetcode-java/tree/master/0709-to-lower-case) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rajuydv174/leetcode-java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/Rajuydv174/leetcode-java/tree/master/1768-merge-strings-alternately) |
+| [2942-find-words-containing-character](https://github.com/Rajuydv174/leetcode-java/tree/master/2942-find-words-containing-character) |
 ## Breadth-First Search
 |  |
 | ------- |
