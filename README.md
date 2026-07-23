@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Rajuydv174/leetcode-java/tree/master/0189-rotate-array) |
+| [0415-add-strings](https://github.com/Rajuydv174/leetcode-java/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/Rajuydv174/leetcode-java/tree/master/0523-continuous-subarray-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rajuydv174/leetcode-java/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rajuydv174/leetcode-java/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Rajuydv174/leetcode-java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rajuydv174/leetcode-java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Rajuydv174/leetcode-java/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/Rajuydv174/leetcode-java/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rajuydv174/leetcode-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0709-to-lower-case](https://github.com/Rajuydv174/leetcode-java/tree/master/0709-to-lower-case) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rajuydv174/leetcode-java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Rajuydv174/leetcode-java/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/Rajuydv174/leetcode-java/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Rajuydv174/leetcode-java/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Rajuydv174/leetcode-java/tree/master/1920-build-array-from-permutation) |
