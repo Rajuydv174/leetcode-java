@@ -214,4 +214,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Rajuydv174/leetcode-java/tree/master/0387-first-unique-character-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Rajuydv174/leetcode-java/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Rajuydv174/leetcode-java/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Rajuydv174/leetcode-java/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
