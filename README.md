@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Rajuydv174/leetcode-java/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Rajuydv174/leetcode-java/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Rajuydv174/leetcode-java/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Rajuydv174/leetcode-java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rajuydv174/leetcode-java/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rajuydv174/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajuydv174/leetcode-java/tree/master/0215-kth-largest-element-in-an-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rajuydv174/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Rajuydv174/leetcode-java/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/Rajuydv174/leetcode-java/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rajuydv174/leetcode-java/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajuydv174/leetcode-java/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rajuydv174/leetcode-java/tree/master/0387-first-unique-character-in-a-string) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rajuydv174/leetcode-java/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Rajuydv174/leetcode-java/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajuydv174/leetcode-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Rajuydv174/leetcode-java/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajuydv174/leetcode-java/tree/master/0349-intersection-of-two-arrays) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rajuydv174/leetcode-java/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rajuydv174/leetcode-java/tree/master/0387-first-unique-character-in-a-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rajuydv174/leetcode-java/tree/master/3312-sorted-gcd-pair-queries) |
 ## Queue
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rajuydv174/leetcode-java/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajuydv174/leetcode-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Rajuydv174/leetcode-java/tree/master/0912-sort-an-array) |
 ## Merge Sort
