@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Rajuydv174/leetcode-java/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Rajuydv174/leetcode-java/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Rajuydv174/leetcode-java/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajuydv174/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Rajuydv174/leetcode-java/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Rajuydv174/leetcode-java/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Rajuydv174/leetcode-java/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/Rajuydv174/leetcode-java/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/0922-sort-array-by-parity-ii) |
 | [1768-merge-strings-alternately](https://github.com/Rajuydv174/leetcode-java/tree/master/1768-merge-strings-alternately) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Rajuydv174/leetcode-java/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Rajuydv174/leetcode-java/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Rajuydv174/leetcode-java/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajuydv174/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Rajuydv174/leetcode-java/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
