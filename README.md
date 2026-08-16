@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Rajuydv174/leetcode-java/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/Rajuydv174/leetcode-java/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/Rajuydv174/leetcode-java/tree/master/0523-continuous-subarray-sum) |
+| [1952-three-divisors](https://github.com/Rajuydv174/leetcode-java/tree/master/1952-three-divisors) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rajuydv174/leetcode-java/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rajuydv174/leetcode-java/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/Rajuydv174/leetcode-java/tree/master/1952-three-divisors) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rajuydv174/leetcode-java/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rajuydv174/leetcode-java/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String Matching
@@ -293,4 +295,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rajuydv174/leetcode-java/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Rajuydv174/leetcode-java/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Rajuydv174/leetcode-java/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Rajuydv174/leetcode-java/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
