@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Rajuydv174/leetcode-java/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/Rajuydv174/leetcode-java/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/Rajuydv174/leetcode-java/tree/master/0523-continuous-subarray-sum) |
+| [1227-airplane-seat-assignment-probability](https://github.com/Rajuydv174/leetcode-java/tree/master/1227-airplane-seat-assignment-probability) |
 | [1952-three-divisors](https://github.com/Rajuydv174/leetcode-java/tree/master/1952-three-divisors) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rajuydv174/leetcode-java/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rajuydv174/leetcode-java/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajuydv174/leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Rajuydv174/leetcode-java/tree/master/0392-is-subsequence) |
 | [0813-largest-sum-of-averages](https://github.com/Rajuydv174/leetcode-java/tree/master/0813-largest-sum-of-averages) |
+| [1227-airplane-seat-assignment-probability](https://github.com/Rajuydv174/leetcode-java/tree/master/1227-airplane-seat-assignment-probability) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Rajuydv174/leetcode-java/tree/master/0292-nim-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/Rajuydv174/leetcode-java/tree/master/1227-airplane-seat-assignment-probability) |
 ## Minimax
 |  |
 | ------- |
@@ -328,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Rajuydv174/leetcode-java/tree/master/0292-nim-game) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/Rajuydv174/leetcode-java/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
