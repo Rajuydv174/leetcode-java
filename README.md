@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Rajuydv174/leetcode-java/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Rajuydv174/leetcode-java/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Rajuydv174/leetcode-java/tree/master/0189-rotate-array) |
+| [0292-nim-game](https://github.com/Rajuydv174/leetcode-java/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/Rajuydv174/leetcode-java/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/Rajuydv174/leetcode-java/tree/master/0523-continuous-subarray-sum) |
 | [1952-three-divisors](https://github.com/Rajuydv174/leetcode-java/tree/master/1952-three-divisors) |
@@ -307,4 +308,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Rajuydv174/leetcode-java/tree/master/1952-three-divisors) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Rajuydv174/leetcode-java/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Rajuydv174/leetcode-java/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Rajuydv174/leetcode-java/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Rajuydv174/leetcode-java/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Rajuydv174/leetcode-java/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
