@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Rajuydv174/leetcode-java/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Rajuydv174/leetcode-java/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Rajuydv174/leetcode-java/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Rajuydv174/leetcode-java/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Rajuydv174/leetcode-java/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/Rajuydv174/leetcode-java/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/Rajuydv174/leetcode-java/tree/master/0523-continuous-subarray-sum) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Rajuydv174/leetcode-java/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Rajuydv174/leetcode-java/tree/master/0231-power-of-two) |
 | [0868-binary-gap](https://github.com/Rajuydv174/leetcode-java/tree/master/0868-binary-gap) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Number Theory
@@ -335,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/Rajuydv174/leetcode-java/tree/master/1227-airplane-seat-assignment-probability) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Rajuydv174/leetcode-java/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
