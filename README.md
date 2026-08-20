@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Rajuydv174/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajuydv174/leetcode-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Rajuydv174/leetcode-java/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Rajuydv174/leetcode-java/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Rajuydv174/leetcode-java/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajuydv174/leetcode-java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rajuydv174/leetcode-java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rajuydv174/leetcode-java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rajuydv174/leetcode-java/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Rajuydv174/leetcode-java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajuydv174/leetcode-java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rajuydv174/leetcode-java/tree/master/0387-first-unique-character-in-a-string) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Rajuydv174/leetcode-java/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Rajuydv174/leetcode-java/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Rajuydv174/leetcode-java/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Rajuydv174/leetcode-java/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Rajuydv174/leetcode-java/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/Rajuydv174/leetcode-java/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/Rajuydv174/leetcode-java/tree/master/0523-continuous-subarray-sum) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajuydv174/leetcode-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Rajuydv174/leetcode-java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rajuydv174/leetcode-java/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Rajuydv174/leetcode-java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajuydv174/leetcode-java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Rajuydv174/leetcode-java/tree/master/0414-third-maximum-number) |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Rajuydv174/leetcode-java/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Rajuydv174/leetcode-java/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rajuydv174/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Rajuydv174/leetcode-java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajuydv174/leetcode-java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Rajuydv174/leetcode-java/tree/master/0704-binary-search) |
@@ -228,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Rajuydv174/leetcode-java/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Rajuydv174/leetcode-java/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Rajuydv174/leetcode-java/tree/master/0268-missing-number) |
 | [0868-binary-gap](https://github.com/Rajuydv174/leetcode-java/tree/master/0868-binary-gap) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Number Theory
