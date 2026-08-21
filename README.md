@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Rajuydv174/leetcode-java/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Rajuydv174/leetcode-java/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/0922-sort-array-by-parity-ii) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Rajuydv174/leetcode-java/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajuydv174/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Rajuydv174/leetcode-java/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Rajuydv174/leetcode-java/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Rajuydv174/leetcode-java/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/Rajuydv174/leetcode-java/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/Rajuydv174/leetcode-java/tree/master/0523-continuous-subarray-sum) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Rajuydv174/leetcode-java/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Rajuydv174/leetcode-java/tree/master/1227-airplane-seat-assignment-probability) |
 | [1952-three-divisors](https://github.com/Rajuydv174/leetcode-java/tree/master/1952-three-divisors) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rajuydv174/leetcode-java/tree/master/3312-sorted-gcd-pair-queries) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Rajuydv174/leetcode-java/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
