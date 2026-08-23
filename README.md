@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajuydv174/leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Rajuydv174/leetcode-java/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Rajuydv174/leetcode-java/tree/master/0392-is-subsequence) |
 | [0813-largest-sum-of-averages](https://github.com/Rajuydv174/leetcode-java/tree/master/0813-largest-sum-of-averages) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Rajuydv174/leetcode-java/tree/master/1227-airplane-seat-assignment-probability) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Rajuydv174/leetcode-java/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Rajuydv174/leetcode-java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Rajuydv174/leetcode-java/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Rajuydv174/leetcode-java/tree/master/0338-counting-bits) |
 | [0868-binary-gap](https://github.com/Rajuydv174/leetcode-java/tree/master/0868-binary-gap) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Number Theory
