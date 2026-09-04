@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Rajuydv174/leetcode-java/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/Rajuydv174/leetcode-java/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/Rajuydv174/leetcode-java/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/Rajuydv174/leetcode-java/tree/master/2413-smallest-even-multiple) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Rajuydv174/leetcode-java/tree/master/2549-count-distinct-numbers-on-board) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rajuydv174/leetcode-java/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rajuydv174/leetcode-java/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Rajuydv174/leetcode-java/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/Rajuydv174/leetcode-java/tree/master/1952-three-divisors) |
+| [2413-smallest-even-multiple](https://github.com/Rajuydv174/leetcode-java/tree/master/2413-smallest-even-multiple) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rajuydv174/leetcode-java/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rajuydv174/leetcode-java/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String Matching
