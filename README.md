@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Rajuydv174/leetcode-java/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Rajuydv174/leetcode-java/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Rajuydv174/leetcode-java/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/Rajuydv174/leetcode-java/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rajuydv174/leetcode-java/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/Rajuydv174/leetcode-java/tree/master/0523-continuous-subarray-sum) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Rajuydv174/leetcode-java/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Rajuydv174/leetcode-java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rajuydv174/leetcode-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Rajuydv174/leetcode-java/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Rajuydv174/leetcode-java/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rajuydv174/leetcode-java/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rajuydv174/leetcode-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0709-to-lower-case](https://github.com/Rajuydv174/leetcode-java/tree/master/0709-to-lower-case) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Rajuydv174/leetcode-java/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Rajuydv174/leetcode-java/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rajuydv174/leetcode-java/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/Rajuydv174/leetcode-java/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Rajuydv174/leetcode-java/tree/master/0867-transpose-matrix) |
