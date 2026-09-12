@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Rajuydv174/leetcode-java/tree/master/0523-continuous-subarray-sum) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Rajuydv174/leetcode-java/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Rajuydv174/leetcode-java/tree/master/1227-airplane-seat-assignment-probability) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rajuydv174/leetcode-java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1688-count-of-matches-in-tournament](https://github.com/Rajuydv174/leetcode-java/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/Rajuydv174/leetcode-java/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/Rajuydv174/leetcode-java/tree/master/2235-add-two-integers) |
