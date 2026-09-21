@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/Rajuydv174/leetcode-java/tree/master/1122-relative-sort-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Rajuydv174/leetcode-java/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rajuydv174/leetcode-java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajuydv174/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Rajuydv174/leetcode-java/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Rajuydv174/leetcode-java/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Rajuydv174/leetcode-java/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/Rajuydv174/leetcode-java/tree/master/1122-relative-sort-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rajuydv174/leetcode-java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rajuydv174/leetcode-java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Rajuydv174/leetcode-java/tree/master/2549-count-distinct-numbers-on-board) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rajuydv174/leetcode-java/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Rajuydv174/leetcode-java/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/Rajuydv174/leetcode-java/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rajuydv174/leetcode-java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajuydv174/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Rajuydv174/leetcode-java/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Rajuydv174/leetcode-java/tree/master/1552-magnetic-force-between-two-balls) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Rajuydv174/leetcode-java/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Rajuydv174/leetcode-java/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/Rajuydv174/leetcode-java/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rajuydv174/leetcode-java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Quickselect
 |  |
 | ------- |
