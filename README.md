@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Rajuydv174/leetcode-java/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rajuydv174/leetcode-java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajuydv174/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/Rajuydv174/leetcode-java/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Rajuydv174/leetcode-java/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Rajuydv174/leetcode-java/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Rajuydv174/leetcode-java/tree/master/1552-magnetic-force-between-two-balls) |
