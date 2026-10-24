@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Rajuydv174/leetcode-java/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Rajuydv174/leetcode-java/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Rajuydv174/leetcode-java/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Rajuydv174/leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajuydv174/leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Rajuydv174/leetcode-java/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Rajuydv174/leetcode-java/tree/master/0162-find-peak-element) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajuydv174/leetcode-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Rajuydv174/leetcode-java/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Rajuydv174/leetcode-java/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Rajuydv174/leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Rajuydv174/leetcode-java/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Rajuydv174/leetcode-java/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Rajuydv174/leetcode-java/tree/master/0151-reverse-words-in-a-string) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Rajuydv174/leetcode-java/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Rajuydv174/leetcode-java/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Rajuydv174/leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Rajuydv174/leetcode-java/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajuydv174/leetcode-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Rajuydv174/leetcode-java/tree/master/0217-contains-duplicate) |
