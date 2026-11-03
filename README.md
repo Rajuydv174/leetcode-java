@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Rajuydv174/leetcode-java/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0813-largest-sum-of-averages](https://github.com/Rajuydv174/leetcode-java/tree/master/0813-largest-sum-of-averages) |
 | [0867-transpose-matrix](https://github.com/Rajuydv174/leetcode-java/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/Rajuydv174/leetcode-java/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Rajuydv174/leetcode-java/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Rajuydv174/leetcode-java/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Rajuydv174/leetcode-java/tree/master/0912-sort-an-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/Rajuydv174/leetcode-java/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Rajuydv174/leetcode-java/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Rajuydv174/leetcode-java/tree/master/0875-koko-eating-bananas) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Rajuydv174/leetcode-java/tree/master/1552-magnetic-force-between-two-balls) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rajuydv174/leetcode-java/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rajuydv174/leetcode-java/tree/master/3312-sorted-gcd-pair-queries) |
