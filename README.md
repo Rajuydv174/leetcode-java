@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-airplane-seat-assignment-probability](https://github.com/Rajuydv174/leetcode-java/tree/master/1227-airplane-seat-assignment-probability) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rajuydv174/leetcode-java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rajuydv174/leetcode-java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1518-water-bottles](https://github.com/Rajuydv174/leetcode-java/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rajuydv174/leetcode-java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/Rajuydv174/leetcode-java/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/Rajuydv174/leetcode-java/tree/master/1952-three-divisors) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Rajuydv174/leetcode-java/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/Rajuydv174/leetcode-java/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Rajuydv174/leetcode-java/tree/master/0867-transpose-matrix) |
+| [1518-water-bottles](https://github.com/Rajuydv174/leetcode-java/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/Rajuydv174/leetcode-java/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Rajuydv174/leetcode-java/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Rajuydv174/leetcode-java/tree/master/1929-concatenation-of-array) |
