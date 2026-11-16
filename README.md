@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-largest-sum-of-averages](https://github.com/Rajuydv174/leetcode-java/tree/master/0813-largest-sum-of-averages) |
 | [0867-transpose-matrix](https://github.com/Rajuydv174/leetcode-java/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Rajuydv174/leetcode-java/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/Rajuydv174/leetcode-java/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Rajuydv174/leetcode-java/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Rajuydv174/leetcode-java/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Rajuydv174/leetcode-java/tree/master/0912-sort-an-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Rajuydv174/leetcode-java/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Rajuydv174/leetcode-java/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/Rajuydv174/leetcode-java/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Rajuydv174/leetcode-java/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/0922-sort-array-by-parity-ii) |
 | [1768-merge-strings-alternately](https://github.com/Rajuydv174/leetcode-java/tree/master/1768-merge-strings-alternately) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Rajuydv174/leetcode-java/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Rajuydv174/leetcode-java/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Rajuydv174/leetcode-java/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0881-boats-to-save-people](https://github.com/Rajuydv174/leetcode-java/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Rajuydv174/leetcode-java/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Rajuydv174/leetcode-java/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/0922-sort-array-by-parity-ii) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Rajuydv174/leetcode-java/tree/master/0561-array-partition) |
+| [0881-boats-to-save-people](https://github.com/Rajuydv174/leetcode-java/tree/master/0881-boats-to-save-people) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Rajuydv174/leetcode-java/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rajuydv174/leetcode-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
@@ -468,4 +472,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rajuydv174/leetcode-java/tree/master/0169-majority-element) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Rajuydv174/leetcode-java/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
